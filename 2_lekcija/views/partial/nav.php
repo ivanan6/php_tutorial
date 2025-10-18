@@ -11,6 +11,7 @@
               <a href="/" aria-current="page" class= "<?php echo urls('/') ? 'rounded-md bg-gray-950/50' : 'text-gray-300'?>  px-3 py-2 text-sm font-medium text-white">Home</a>
               <a href="/about" class= "<?php echo urls('/about.php') ? 'rounded-md bg-gray-950/50' : 'text-gray-300'?>  px-3 py-2 text-sm font-medium text-white">About</a>
               <a href="/contact" class= "<?php echo urls('/contact.php') ? 'rounded-md bg-gray-950/50' : 'text-gray-300'?>  px-3 py-2 text-sm font-medium text-white">Contact</a>
+              <a href="/notes" class= "<?php echo urls('/notes.php') ? 'rounded-md bg-gray-950/50' : 'text-gray-300'?>  px-3 py-2 text-sm font-medium text-white">Notes</a>
               </div>
           </div>
         </div>
