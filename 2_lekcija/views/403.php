@@ -7,10 +7,10 @@
 <main>
 
     <div>
-        <h1> Sorry not found</h1>
+        <h1> Unauthorized</h1>
         <p>
 
-            <a href="/"> Go back </a>
+            <a href="/notes"> Go back </a>
         </p>
 
 
